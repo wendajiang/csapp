@@ -1,0 +1,11 @@
+csim
+*.tar
+test-trans
+tracegen
+parse-hit-miss
+trans.o
+.csim_results
+.marker
+trace.f*
+trace_verbose.f*
+trace.tmp

@@ -1,0 +1,6 @@
+This is an x86-64 bomb for self-study students. 
+
+references:
+- gdbnotes-x86-64.pdf
+- recitation03-bomblab.pdf
+- http://beej.us/guide/bggdb/
